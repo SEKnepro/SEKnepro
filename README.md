@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SEKnepro. I'm from Russia
+- 👋 Hi, I’m @SEKnepro.
 - 👀 I’m interested music in Spotify
 - 🌱 I’m currently learning JS, CSS, HTML, PHP
-- 📫 How to reach me: Telegram - @sektoegor
+- 📫 How to reach me: Telegram - @sektoegoras
 
 <!---
 SEKnepro/SEKnepro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
